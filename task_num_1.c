@@ -30,3 +30,6 @@ void myFree(void* ptr){
     *((double*)ptr)=list_head_ptr; // casting ptr to double and updating its value to the head pointer
     list_head_ptr=(double*)ptr; // update the head
 }
+
+//nir
+// omri
